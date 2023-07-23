@@ -1,8 +1,7 @@
 # Meteor Madness
-# pygame
-# Asteroids
+# A pygame like Asteroids
 
-This Astroids-like game is my first PyGame experiment. I made it for my sons, who are 8 years old.
+My first PyGame experiment! Dedicated to my twin sons, who are 8 years old.
 
 The screen opens at 1500 wide and 1000 tall ... change these settings in line 10.
 
@@ -27,7 +26,7 @@ If you feel like donating a dollar, you can use my qrcode.png for MEME LLC.
 Let me know if you have feature requests or suggestions for improvement!
 
 TODO:
-# Add Music
-# Add Sound Effects
-# Split Large Asteroids
-# Explode Asteroids
+/ Add Music
+/ Add Sound Effects
+/ Split Large Asteroids
+/ Explode Asteroids
